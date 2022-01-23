@@ -14,4 +14,4 @@
 ![Test Image 6](https://github.com/aoimaru/Pi/blob/main/%E9%80%94%E4%B8%AD%E7%B5%8C%E9%81%8E1.jpg)
 
 ### 途中経過2
-![Test Image 6](https://github.com/aoimaru/Pi/blob/main/%E9%80%94%E4%B8%AD%E7%B5%8C%E9%81%8E1.jpg)
+![Test Image 6](https://github.com/aoimaru/Pi/blob/main/%E9%80%94%E4%B8%AD%E7%B5%8C%E9%81%8E2.jpg)
