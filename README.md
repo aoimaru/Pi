@@ -4,3 +4,6 @@
 
 ### 完成写真
 ![Test Image 6](https://github.com/aoimaru/Pi/blob/main/%E5%AE%8C%E6%88%90.jpg)
+
+### 方法
+1. 
